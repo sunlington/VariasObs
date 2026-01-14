@@ -1,0 +1,296 @@
+{
+  "main": {
+    "id": "2e5872f18ef85f65",
+    "type": "split",
+    "children": [
+      {
+        "id": "b004bf483a610cbb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a5eae220291817e6",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "f7d999bcd666252d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "! World/Religion/The Pantheon.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "The Pantheon"
+            }
+          },
+          {
+            "id": "681e773fbaf77daf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Campaigns/C5 Mega Campaign/! Future Plans + Roadmap/Roadmap.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Roadmap"
+            }
+          },
+          {
+            "id": "05d6151795906cd6",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "3cf99455655ab09c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2a351b601ab7538f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Campaigns/C5 Mega Campaign/! Future Plans + Roadmap/Fake Roadmap.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Fake Roadmap"
+            }
+          },
+          {
+            "id": "f767d5e293e5e986",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "! World/People/Vaeln, He who Survives Ruin.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Vaeln, He who Survives Ruin"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "932471d1b2450865",
+    "type": "split",
+    "children": [
+      {
+        "id": "c7eee629316b53ba",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1a1c98c7c5547bb2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "603d8db57d96fef4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#act3",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "5e8f77fec9b5e303",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ee20c09ffe399843",
+    "type": "split",
+    "children": [
+      {
+        "id": "1fb2a4b0752332aa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "349ce68387b682fb",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Templates/Location.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Location"
+            }
+          },
+          {
+            "id": "1055dbaf5214ea78",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Templates/Location.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Location"
+            }
+          },
+          {
+            "id": "e9cecd8e5dee859b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "60c3dd2e96d90a39",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Templates/Location.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Location"
+            }
+          },
+          {
+            "id": "7d5ea867de3ecbe9",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "command-palette:Open command palette": false,
+      "obsidian-kanban:Create new board": false,
+      "templater-obsidian:Templater": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "681e773fbaf77daf",
+  "lastOpenFiles": [
+    "! World/Geography/Continents/Nations/Malacore.md",
+    "! World/Geography/Continents/Malacore.md",
+    "! World/Geography/Malacore.md",
+    "! World/People/Barcus Taldoran.md",
+    "! World/Barcus Taldoran.md",
+    "! World/Malacore.md",
+    "Campaigns/C5 Mega Campaign/Player Information/Aeve.md",
+    "! World/Religion/The Pantheon.md",
+    "Campaigns/C5 Mega Campaign/! Future Plans + Roadmap/Roadmap.md",
+    "Campaigns/C5 Mega Campaign/! Future Plans + Roadmap/Fake Roadmap.md",
+    "! World/People/Vaeln, He who Survives Ruin.md",
+    "Campaigns/C5 Mega Campaign/Season of The Broken Grail/Act 3",
+    "Campaigns/C5 Mega Campaign/Season of The Broken Grail/Act 2",
+    "Campaigns/C5 Mega Campaign/Season 2/Act 1.md",
+    "Campaigns/C5 Mega Campaign/Season of The Broken Grail/Act 1",
+    "Campaigns/C5 Mega Campaign/Season of The Broken Grail",
+    "Campaigns/C5 Mega Campaign/Season 1",
+    "Untitled.base",
+    "Untitled 1.base",
+    "Untitled 2.base",
+    "Campaigns/C5 Mega Campaign/! Future Plans + Roadmap/SECOND CAMPAIGN.md",
+    "Campaigns/C5 Mega Campaign/! Future Plans + Roadmap/Scrap.md",
+    "Campaigns/C5 Mega Campaign/! Future Plans + Roadmap/What happened before.md",
+    "Campaigns/C5 Mega Campaign/Season 1/Magic Items/Sword of Kas.md",
+    "Campaigns/C5 Mega Campaign/Season 1/Act 2, Ascension/Appendices/Appendix A, Magic Items.md",
+    "! World/People/Sir Placiduas.md",
+    "! World/Factions/Argent Vigil.md",
+    "Campaigns/C5 Mega Campaign/! Future Plans + Roadmap/DISCLAIMER.md",
+    "Campaigns/C5 Mega Campaign/Side Act, Investigation/! Investigation, Overview.md",
+    "Campaigns/C5 Mega Campaign/! Future Plans + Roadmap",
+    "Campaigns/C5 Mega Campaign/Untitled.md",
+    "GM Tools/Homebrew/The List.md",
+    "GM Tools/Homebrew/Voldakken Wizard Subclass.md",
+    "GM Tools/Homebrew/Poison Brewing.md",
+    "GM Tools/Homebrew/Ratfolk Race.md",
+    "Campaigns/Sludgerot/Story",
+    "Pasted image 20251022221626.png",
+    "Pasted image 20251022221500.png",
+    "Pasted image 20251022221338.png",
+    "Pasted image 20250702193103.png"
+  ]
+}
