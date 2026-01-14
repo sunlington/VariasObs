@@ -1,0 +1,1 @@
+All of this info can be found in an older obsidian vault, no need to copy it over as there is barely any usable material anyway.

@@ -1,0 +1,2 @@
+Reginald is a man with a mysterious past. His soul was trapped in a wooden blade (a weapon of warning) by a witch, this blade traded hands for centuries until his name was taken by a fey. This accidentally freed his soul from the blade, ending the curse but, without body he was stuck in the astral sea. Drifting, aging, changing. The Deck of Many Things brought him back as The Knight card. Now summoned by [[Aeryth]].
+![[Pasted image 20251022221626.png]]
