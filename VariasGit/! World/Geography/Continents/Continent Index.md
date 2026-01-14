@@ -1,0 +1,9 @@
+#varias #location
+
+| **Name**                  | **Description**                                                                                                                                                 | **Nations**                                                   |
+| ------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------- |
+| [[Nuvantar]]              | A frigid continent on the south pole of Varias.                                                                                                                 | [[The Leoric Winterlands]],                                   |
+| [[Eroph]]                 | A continent containing several different cultures all surrounding a more greco-roman time period.                                                               | [[Alziria]], [[Nimbara]],[[Antaria]], [[Feronia]], [[Phalia]] |
+| [[Uran]]                  | An eastern inspired, highly civilized and technologically advanced society.                                                                                     |                                                               |
+| [[The Aelithian Expanse]] | A multitude of floating isles, which remain in the air due to a magical substance called '[[Aerolith]]'. It consists out of 4 unified nations working together. | [[Virellan]], [[Thalvarin]], [[Sylvaeren]], [[Malacore]]      |
+| [[Morvayne Marshes]]      | A swamp area filled with dangerous flora and fauna, and occult activities.                                                                                      |                                                               |

@@ -1,0 +1,6 @@
+- [[Nuvantar]], A frigid continent on the south pole of Varias
+- [[Arcane Isles]], A continent consisting of a multitude of floating isles due to a magic substance called **Aether**
+- [[Eroph]], A Large continent containing several different cultures, all surrounding a more greco-roman time period.
+- [[Marshes of Quelaag]], A swampy area filled to the brim with powerful monsters due to an ancient cataclysm.
+- [[Crescent Bay]], A victorian england style civilization, with high themes of the occult, vampires and lycanthropes.
+- [[Uran]], A Chinese inspired highly civilized and technologically advanced society.
