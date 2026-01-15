@@ -89,8 +89,19 @@
               "icon": "lucide-file",
               "title": "Vaeln, He who Survives Ruin"
             }
+          },
+          {
+            "id": "be541c08cf6fb652",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -250,8 +261,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "681e773fbaf77daf",
+  "active": "be541c08cf6fb652",
   "lastOpenFiles": [
+    "Campaigns/C5 Mega Campaign/! Future Plans + Roadmap/Fake Roadmap.md",
+    "! World/People/Vaeln, He who Survives Ruin.md",
+    "Campaigns/C5 Mega Campaign/! Future Plans + Roadmap/Roadmap.md",
     "! World/Geography/Continents/Nations/Malacore.md",
     "! World/Geography/Continents/Malacore.md",
     "! World/Geography/Malacore.md",
@@ -260,9 +274,6 @@
     "! World/Malacore.md",
     "Campaigns/C5 Mega Campaign/Player Information/Aeve.md",
     "! World/Religion/The Pantheon.md",
-    "Campaigns/C5 Mega Campaign/! Future Plans + Roadmap/Roadmap.md",
-    "Campaigns/C5 Mega Campaign/! Future Plans + Roadmap/Fake Roadmap.md",
-    "! World/People/Vaeln, He who Survives Ruin.md",
     "Campaigns/C5 Mega Campaign/Season of The Broken Grail/Act 3",
     "Campaigns/C5 Mega Campaign/Season of The Broken Grail/Act 2",
     "Campaigns/C5 Mega Campaign/Season 2/Act 1.md",
